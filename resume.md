@@ -8,12 +8,12 @@ Kelly Ebler
 
 Education
 ---------
-:   **B.A, Music (Jazz Studies, Piano)**; University of North Texas (Denton, TX)
+**B.A, Music (Jazz Studies, Piano)**; University of North Texas (Denton, TX)
 
 * _Minor in Music Theory and Spanish_
 * _DJed at KNTU-FM 88.1_
 * _Initiated Member of [Delta Sigma Phi](https://www.deltasig.org/) Fraternity_
-----------
+
 Experience
 -----------
 
