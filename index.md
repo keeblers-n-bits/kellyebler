@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![Kelly Ebler in front of a brick wall](/assets/img/kelly-ebler-brick-wall.jpg)
