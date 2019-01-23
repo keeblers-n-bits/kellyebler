@@ -16,7 +16,7 @@
 title: Kelly Ebler
 email: kelly.ebler@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I'm Kelly Ebler and this is my website! 
+  Official bio, resume, blog, musings, and opinions of Kelly Ebler. Batteries not included.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kellyebler
