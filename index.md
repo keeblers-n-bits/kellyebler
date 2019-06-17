@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![Kelly Ebler in front of a brick wall](/assets/img/kelly-ebler-brick-wall.jpg)
+![Kelly Ebler on Chuckanut Island](/assets/img/kelly-ebler-chuckanut-island.jpg)
